@@ -1,0 +1,16 @@
+.git
+README.md
+docker-compose.yml
+
+backend/node_modules
+backend/.gitignore
+backend/.env
+backend/.dockerignore
+backend/Dockerfile
+
+frontend/node_modules
+frontend/.gitignore
+frontend/.env
+frontend/README.md
+frontend/.dockerignore
+frontend/Dockerfile
